@@ -1,0 +1,33 @@
+ID,Keyword,Type,Definition,Human Interpretation,Example,Related Concepts
+A-01,Question Literacy,Type A,The ability to ask meaningful questions that challenge assumptions.,AI can find answers but not ask "why".,Workshops on question design,Curiosity; Metacognition
+A-02,Courage Premium,Type A,The value of taking contrarian actions when AI provides optimized predictions.,Courage and intuition become a new source of differentiation.,Hiring creative risk-takers,Nonconformity; Intuition
+A-03,Failure Resilience Score,Type A,A metric that values learning from failure.,Visible tolerance for trial and error defines personal growth.,Sharing failures in public forums,Psychological Safety; Growth Mindset
+A-04,Passion Portfolio,Type A,Unique combinations of personal passions create originality.,Average skills lose value; obsession becomes capital.,Employees mapping personal interests to work,Creativity; Self-Expression
+A-05,Second-Self API,Type A,Treat your skills as modular APIs for collaboration.,Clarify input–output strengths for efficient teamwork.,Skill-sharing templates among professionals,Collaboration; Knowledge Graph
+A-06,Ambiguity Intelligence,Type A,The ability to find meaning in uncertainty.,Hold multiple perspectives without paralysis.,Leaders deciding amid incomplete data,Complexity Tolerance; Emotional Intelligence
+B-01,Anti-Optimization Design,Type B,Intentionally leaving inefficiency to sustain creativity.,Slight waste keeps curiosity alive.,Unstructured brainstorming time,Serendipity; Play
+B-02,Irrational Alpha (α),Type B,Profit and innovation emerging from intuition and aesthetics.,Beyond logic, narrative drives sustainable value.,Brand storytelling workshops,Empathy; Design Thinking
+B-03,Outlier ROE,Type B,A metric that rewards extraordinary success and failure.,Bet on long-term, high-variance experiments.,R&D moonshot initiatives,Risk Appetite; Innovation
+B-04,Deviation Tolerance,Type B,The degree to which a company allows deviation from norms.,Rule-bending can enhance creativity under trust.,Teams granted “good deviation” authority,Empowerment; Flexibility
+B-05,Strategy Internalization Design,Type B,Making strategy personally meaningful through experience.,People internalize stories, not instructions.,Immersive workshops replacing top-down meetings,Organizational Learning; Narrative Design
+B-06,HITL% (Human-in-the-Loop Ratio),Type B,Ratio indicating human judgment retained in automation.,Balance between automation and oversight ensures ethics.,Quality review checkpoints in AI pipelines,AI Alignment; Governance
+B-07,Narrative PBR,Type B,Valuation metric reflecting belief in a company’s story.,Market trusts narratives as much as balance sheets.,Purpose-driven investor relations,Brand Equity; Storytelling
+C-01,Trust SLA / Meaning SLA,Type C,Contractual guarantees of AI reliability and interpretive accuracy.,Trust becomes measurable at the semantic level.,Ethical AI contracts,Accountability; Fairness
+C-02,Value Function Disclosure,Type C,Clarifying what values an AI system optimizes for.,Transparency in optimization logic builds credibility.,Public ethical audit reports,Explainability; Governance
+C-03,Relational QoS,Type C,Measuring quality of human-AI relationships beyond efficiency.,Includes empathy, reassurance, honesty.,Evaluating chatbot empathy levels,Trust; Human-Centered Design
+C-04,Algorithm Explainability Level,Type C,Framework for rating clarity of algorithm explanations.,Match explanation depth to user literacy.,Tiered transparency documentation,Interpretability; User Trust
+C-05,Data Etiquette,Type C,Treating data with respect like human interaction.,Respectful data handling becomes part of culture.,Consent-first data collection policies,Privacy; Ethics
+C-06,Narrative Flood Control,Type C,Maintaining information hygiene amid misinformation floods.,Design cooling mechanisms for heated discourse.,Fact-check channels inside organizations,Information Hygiene; Media Literacy
+C-07,Misreading & Outrage Resistance Design,Type C,Systems designed to withstand misinterpretation.,Clarify intent and predefine response templates.,Crisis communication playbooks,Resilience; Clarity
+D-01,Silence UX,Type D,Designing experiences that add value through absence.,Quiet moments build trust and depth.,Minimalist app interfaces,Mindfulness; Calm Technology
+D-02,Designing the Unspoken,Type D,Creating perceived value by deliberate omission.,Leave interpretive room for imagination.,Luxury branding using subtle cues,Subtext; Symbolism
+D-03,Productive Inefficiency,Type D,Using detours and play as sources of creativity.,Waste becomes a resource for innovation.,“Play time” in creative firms,Serendipity; Improvisation
+D-04,Empathy ROAS,Type D,Redefining Return on Ad Spend by emotional impact.,Measure storytelling resonance, not clicks.,Emotional response analytics,Empathy; Long-Term Value
+D-05,Emotional Throughput (ETP),Type D,Metric for how deeply content moves people in time.,Depth of emotion matters more than reach.,Engagement quality dashboards,Emotional Impact; Resonance
+D-06,Tactile Internet,Type D,Restoring human warmth in digital interaction.,Mark “from here, it’s human.”,Human service touchpoints in AI systems,Trust; Tangibility
+D-07,Ghost Touchpoints,Type D,Unmonitored interactions that shape real brand experience.,Design for unofficial community spaces.,Word-of-mouth mapping,Community; Transparency
+D-08,Noise-Injection Design,Type D,Adding controlled randomness to prevent over-optimization.,Inject noise to sustain creativity.,Random idea prompts in teams,Exploration; Diversity
+E-01,Prompt Deficit,Type E,Loss of intellectual value through user prompts to foreign AIs.,Data sovereignty becomes economic sovereignty.,National AI prompt policies,Data Flow; AI Governance
+E-02,Translation Friction Coefficient,Type E,Measure of semantic loss in AI translation.,Cultural nuance must be preserved.,Dual-review translation systems,Linguistic Accuracy; Cross-Cultural Design
+E-03,Narrative Ownership Index,Type E,How much a nation can tell its own stories.,Controlling narratives preserves identity.,Domestic data access for AI training,Cultural Sovereignty; Soft Power
+E
